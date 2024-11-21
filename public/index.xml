@@ -6,21 +6,63 @@
     <description>Recent content on jerica Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2024 21:50:17 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 01:39:42 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 2nd Post</title>
-      <link>http://localhost:1313/posts/my-2nd-post/</link>
-      <pubDate>Thu, 21 Nov 2024 21:50:17 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-2nd-post/</guid>
-      <description></description>
+      <title>執行中的專案</title>
+      <link>http://localhost:1313/posts/my-3rd-post/</link>
+      <pubDate>Fri, 22 Nov 2024 01:39:42 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-3rd-post/</guid>
+      <description>&lt;p&gt;非營利組織的ISMS導入：以東海大學為例&lt;/p&gt;</description>
     </item>
     <item>
       <title>專業證照</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 21 Nov 2024 13:10:14 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/Cert130114959259.png&#34; alt=&#34;我的證書圖片&#34;&gt;\n&#xA;&lt;a href=&#34;../images/pdf/Cert130114959259.pdf&#34;&gt;下載 PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;2023 Certiport ITS Database 證照證明&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>專業能力</title>
+      <link>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/my-2nd-post/</link>
+      <pubDate>Thu, 21 Nov 2024 21:50:17 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/my-2nd-post/</guid>
+      <description>&lt;p&gt;C、python、JAVA、JavaScript&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>企業系統分析</title>
+      <link>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/bsa/</link>
+      <pubDate>Fri, 22 Nov 2024 01:12:52 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/bsa/</guid>
+      <description>&lt;h3 id=&#34;企業系統分析的作品&#34;&gt;企業系統分析的作品&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;補習班系統分析&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bsa/ichi.png&#34; alt=&#34;補習班系統分析_1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/bsa/nana.png&#34; alt=&#34;補習班系統分析_2&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;連結&#34;&gt;連結&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1o3NXFRZxQYYjS7AD2C3s2DWMXCP3_f2D/view?usp=drivesdk&#34;&gt;網址&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bsa/qr.png&#34; alt=&#34;qr&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MySQL</title>
+      <link>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/mysql/</link>
+      <pubDate>Fri, 22 Nov 2024 01:12:37 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/mysql/</guid>
+      <description>&lt;h3 id=&#34;mysql的作品&#34;&gt;MySQL的作品&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;寵物社群網站&#xA;&lt;img src=&#34;http://localhost:1313/images/MySQL/regret.png&#34; alt=&#34;寵物社群網站_1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/MySQL/textuatall.png&#34; alt=&#34;寵物社群網站_2&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;連結&#34;&gt;連結&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1gyMqS7vxY0miul8imuH8LZhD7t_4Ipzj/view?usp=drivesdk&#34;&gt;網址&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/MySQL/qr.png&#34; alt=&#34;qr&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BI</title>
+      <link>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/bi/</link>
+      <pubDate>Fri, 22 Nov 2024 00:58:04 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/bi/</guid>
+      <description>&lt;h3 id=&#34;bi的作品&#34;&gt;BI的作品&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;高雄市觀光旅館住客人次分析報表&#xA;&lt;img src=&#34;http://localhost:1313/images/BI/goamo.png&#34; alt=&#34;高雄市觀光旅館住客人次分析報表&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;連結&#34;&gt;連結&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1_Yk-Fwrg2gKz6DQRbLvSawID84bX0d1f&#34;&gt;網址&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/BI/qr.png&#34; alt=&#34;qr&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Php_javascript_html</title>
+      <link>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/php_javascript_html/</link>
+      <pubDate>Fri, 22 Nov 2024 00:55:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/php_javascript_html/</guid>
+      <description>&lt;h3 id=&#34;php_javascript_html的作品&#34;&gt;PHP_JavaScript_HTML的作品&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;寵物相簿&#xA;&lt;img src=&#34;http://localhost:1313/images/php/sure.png&#34; alt=&#34;寵物相簿_1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/php/bloodshade.png&#34; alt=&#34;寵物相簿_2&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/php/done.png&#34; alt=&#34;寵物相簿_3&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;詳細介紹影片&#34;&gt;詳細介紹影片&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1l0ppe3ljLevsRlBms9zs-FcXeuGp1APu/view?usp=drivesdk&#34;&gt;網址&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/php/qr.png&#34; alt=&#34;詳細介紹影片&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JAVA</title>
+      <link>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/java/</link>
+      <pubDate>Thu, 21 Nov 2024 23:27:24 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B/java/</guid>
+      <description>&lt;h3 id=&#34;java-的功能&#34;&gt;JAVA 的功能&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;計算機&#xA;&lt;img src=&#34;http://localhost:1313/images/JAVA/coculate.png&#34; alt=&#34;計算機&#34;&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;記事本設計&#xA;&lt;img src=&#34;http://localhost:1313/images/JAVA/note.png&#34; alt=&#34;記事本設計&#34;&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;三色旗問題&#xA;&lt;img src=&#34;http://localhost:1313/images/JAVA/3serflag.png&#34; alt=&#34;三色旗問題&#34;&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;連結&#34;&gt;連結&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1zfXc8Sw44ZJFCtCmk_oXRt1oXMCq-CIjURLm5NYdzFk/edit?usp=drivesdk&#34;&gt;網址&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/JAVA/qr.png&#34; alt=&#34;qr&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
