@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 21 Nov 2024 13:10:14 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/Cert130114959259.png&#34; alt=&#34;我的證書圖片&#34;&gt;\n&#xA;&lt;a href=&#34;../images/pdf/Cert130114959259.pdf&#34;&gt;下載 PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
