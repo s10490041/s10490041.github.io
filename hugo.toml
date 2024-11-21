@@ -1,0 +1,4 @@
+baseURL = 'https://s10490041.github.io/'
+languageCode = 'en-us'
+title = 'jerica Hugo Site'
+theme = "ananke"
